@@ -33,19 +33,6 @@ mvn clean deploy
 
 Refer to the [OSSRH Guide](http://central.sonatype.org/pages/ossrh-guide.html) for more information.
 
-### Maven users
-
-Add this dependency to your project's POM:
-
-```xml
-<dependency>
-  <groupId>org.openapitools</groupId>
-  <artifactId>swagger.demo</artifactId>
-  <version>1.0.0</version>
-  <scope>compile</scope>
-</dependency>
-```
-
 ### Others
 
 At first generate the JAR by executing:
